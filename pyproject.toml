@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "swiglu_ode"
+version = "0.1.0"
+description = "A custom JAX autodiff engine for SwiGLU-based Neural ODEs"
+authors = [
+    { name = "Hagop Otabachian" }
+]
+requires-python = ">=3.10"
+dependencies = [
+    "jax",
+    "jaxlib"
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

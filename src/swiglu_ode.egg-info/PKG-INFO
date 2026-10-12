@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: swiglu_ode
+Version: 0.1.0
+Summary: A custom JAX autodiff engine for SwiGLU-based Neural ODEs
+Author: Hagop Otabachian
+Requires-Python: >=3.10
+Requires-Dist: jax
+Requires-Dist: jaxlib

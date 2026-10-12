@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/swiglu_ode/__init__.py
+src/swiglu_ode/activation.py
+src/swiglu_ode/network.py
+src/swiglu_ode/normalization.py
+src/swiglu_ode.egg-info/PKG-INFO
+src/swiglu_ode.egg-info/SOURCES.txt
+src/swiglu_ode.egg-info/dependency_links.txt
+src/swiglu_ode.egg-info/requires.txt
+src/swiglu_ode.egg-info/top_level.txt
+tests/test_gradients.py
