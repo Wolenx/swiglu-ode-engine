@@ -40,7 +40,7 @@ swiglu-ode/
 This project is packaged for modular importing. It requires Python 3.10+ and JAX. Clone the repository and install it in editable mode:
 
 ```bash
-git clone [https://github.com/Wolenx/swiglu-ode.git](https://github.com/yourusername/swiglu-ode.git)
+git clone [https://github.com/Wolenx/swiglu-ode.git](https://github.com/Wolenx/swiglu-ode.git)
 cd swiglu-ode
 pip install -e .
 ```
